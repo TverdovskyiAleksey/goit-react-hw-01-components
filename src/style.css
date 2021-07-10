@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 20px;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', Sans-Serif;
+  background: azure;
+}
